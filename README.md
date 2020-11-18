@@ -1,4 +1,4 @@
-### Hi there, I'm Jarno 👋
+# Hi there, I'm Jarno 👋
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jarno-b-93a35913a">
