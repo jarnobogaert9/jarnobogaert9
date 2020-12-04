@@ -1,6 +1,7 @@
 # Hi there, I'm Jarno 👋
 
 ## Connect with me:
+
 <a href="https://www.linkedin.com/in/jarno-b-93a35913a">
   <img align="left" alt="Jarno's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -9,6 +10,10 @@
   <img align="left" alt="Jarno's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
+<img align="center" alt="sabesan's Github Stats"
+        src="https://github-readme-stats.codestackr.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+        
 <!-- <a href="https://github.com/jarnobogaert9">
     <img align="center" alt="sabesan's Github Stats"
         src="https://github-readme-stats.codestackr.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
