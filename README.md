@@ -1,6 +1,6 @@
 # Hi there, I'm Jarno 👋
         
-[![Jarno Bogaert's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/jarnobogaert9/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/jarnobogaert9/github-readme-stats)
 
 ## Connect with me:
 
@@ -13,12 +13,12 @@
 </a>
 <!-- <a href="https://github.com/jarnobogaert9">
     <img align="center" alt="sabesan's Github Stats"
-        src="https://github-readme-stats.codestackr.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<br/>
+        src="https://github-readme-stats.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<br/> -->
 <a href="https://github.com/jarnobogaert9">
     <img align="center"
         src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jarnobogaert9&layout=compact&theme=radical" />
-</a> -->
+</a> 
 
 <!--
 **jarnobogaert9/jarnobogaert9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
