@@ -1,9 +1,6 @@
 # Hi there, I'm Jarno 👋
-
-<img align="center" alt="sabesan's Github Stats"
-        src="https://github-readme-stats.codestackr.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
         
-[![Jarno Bogaert's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/jarnobogaert9/github-readme-stats)
+[![Jarno Bogaert's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarnobogaert9&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/jarnobogaert9/github-readme-stats)
 
 ## Connect with me:
 
